@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seghar
 - 👀 I’m interested in machine learning, deep learning, and natural language processing
-- 🌱 I’m currently learning Python for LLM applications
+- 🌱 I’m currently using Python for LLM applications
 - 💞️ I’m looking to collaborate on integrating artificial intelligence into business functions and services
 - 📫 I'm reachable at @seghar on Twitter 
 
